@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Incident</string>
+    <string name="incident_prompt">Choose an Incident</string>
+    <string-array name="incident_arrays">
+        <item>Select One</item>
+        <item>Bully-1</item>
+        <item>Bully-2</item>
+        <item>Bully-3</item>
+        <item>Bully-4</item>
+        <item>Bully-5</item>
+        <item>Bully-6</item>
+        <item>Bully-7</item>
+    </string-array>
+
+    <string name="location_prompt">Choose location</string>
+    <string-array name="location_arrays">
+        <item>Select One</item>
+        <item>Loc-1</item>
+        <item>Loc-2</item>
+        <item>Loc-3</item>
+        <item>Loc-4</item>
+        <item>Loc-5</item>
+        <item>Loc-6</item>
+        <item>Loc-7</item>
+    </string-array>
+    <string name="add_info">Additional Info</string>
+    <string name="inc_button">Report</string>
+</resources>
